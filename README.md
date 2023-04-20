@@ -4,7 +4,7 @@
 
 As you may have already realized, my name is Morgan Dusty. I think we can end here, because there will be no need for any more fish words. I can make you a cheat, or translate the game, I can even make you a cool video or even a game. I'm very versatile and strive for self-development, welcome to my page!
 
-Skills: NODE JS/PYTHON/C++/C#/RUBY/LUA/UNITY/UNREAL-ENGINE/PHOTOSHOP/AFTER EFFECTS/PREMIERE PRO/CSS/HTML/JS/RAGEMP/FIVEM/WMP/VMP/VDS/VPS/RASPBERRY PI/ARDUINO/reverse-engineering/PHP/Learn
+Skills: NODE JS/PYTHON/C++/C#/RUBY/LUA/UNITY/UNREAL-ENGINE/PHOTOSHOP/AFTER EFFECTS/PREMIERE PRO/CSS/HTML/JS/RAGEMP/FIVEM/WMP/VMP/VDS/VPS/RASPBERRY PI/ARDUINO/reverse-engineering/PHP/Renpy/And more.
 
 - 🔭 I’m currently working on mawo agency 
 - 🌱 I’m currently learning C# / C++ 
