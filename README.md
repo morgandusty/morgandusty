@@ -6,10 +6,9 @@ As you may have already realized, my name is Morgan Dusty. I think we can end he
 
 Skills: NODE JS/PYTHON/C++/C#/RUBY/LUA/UNITY/UNREAL-ENGINE/PHOTOSHOP/AFTER EFFECTS/PREMIERE PRO/CSS/HTML/JS/RAGEMP/FIVEM/WMP/VMP/VDS/VPS/RASPBERRY PI/ARDUINO/reverse-engineering/PHP/Renpy/And more.
 
-- 🔭 I’m currently working on mawo agency 
+- 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning C# / C++ 
 - 💬 Ask me about How do you do it? 
-- 📫 How to reach me: dusty@internet.ru 
 - 😄 Pronouns: Dusty, Morgan, MorganDusty 
 - ⚡ Fun fact: I'm a genius psycho. 
 
